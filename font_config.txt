@@ -17,3 +17,5 @@
           weight: 400
         - asset: assets/fonts/Cairo-SemiBold.ttf
           weight: 600
+
+#here is the content That you should copy and paste in your puspec.yaml and you are free to go 
